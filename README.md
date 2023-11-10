@@ -18,10 +18,10 @@
 1. 일시: 2023.10.10.
 2. 장소: 블루워크 안암점
 3. 참가 회원
-   - [Jongbin-kr](https://github.com/Jongbin-kr) (세션장)
-   - [KEJ](https://github.com/en0226)
-   - [candlevillain](https://github.com/candlevillain)
-   - [Seonah Han](https://github.com/linea77)
-   - [Shincw](https://github.com/Shincw)
-   - [wjddk314](https://github.com/wjddk314)
-   - [Dogseone04](https://github.com/Dogseone04)
+   - 원종빈 [Jongbin-kr](https://github.com/Jongbin-kr) (세션장)
+   - 한선아 [Seonah Han](https://github.com/linea77) (학회장 및 세션 보조)
+   - 권은재 [KEJ](https://github.com/en0226) (세션 보조)
+   - 조승혁 [candlevillain](https://github.com/candlevillain)
+   - 신채원 [Shincw](https://github.com/Shincw)
+   - 김정아 [wjddk314](https://github.com/wjddk314)
+   - 김선혜 [Dogseone04](https://github.com/Dogseone04)
