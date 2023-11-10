@@ -2,7 +2,7 @@
 
 - 본 세션은 정규 수업에서는 거의 다루지 않는 `Git & Github`, `Markdown`, `Terminal`에 관한 내용들을 다루고자 진행되었습니다.
   - 세션의 이름은 MIT에서 진행하는 비슷한 성격의 세미나 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)를 오마주했습니다.
-- 강의 자료는 모두 세선장([Jongin Won](https://github.com/Jongbin-kr))이 직접 준비했으며, 그 과정에서 다양한 온라인 자료들을 간접적으로 참고하였음을 밝힙니다.
+- 강의 자료는 모두 세션장([Jongin Won](https://github.com/Jongbin-kr))이 직접 준비했으며, 그 과정에서 다양한 온라인 자료들을 간접적으로 참고하였음을 밝힙니다.
 
 <br>
 
