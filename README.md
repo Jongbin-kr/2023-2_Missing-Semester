@@ -1,4 +1,4 @@
-## The Missing Semester of Your NLP Studies
+## The Missing Semester for Your NLP Studies
 
 - 본 세션은 정규 수업에서는 거의 다루지 않는 `Git & Github`, `Markdown`, `Terminal`에 관한 내용들을 다루고자 진행되었습니다.
   - 세션의 이름은 MIT에서 진행하는 비슷한 성격의 세미나 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)를 오마주했습니다.
